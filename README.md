@@ -1,2 +1,2 @@
 # tabnews
-Aua do curso.dev Felipe Deschemps
+Aula do curso.dev Felipe Deschemps
